@@ -1,0 +1,1 @@
+SCH_snow_light.json and PCB_snow_light.json should be opened by JLC-EDA https://lceda.cn/page/download
