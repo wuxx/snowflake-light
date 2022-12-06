@@ -8,5 +8,10 @@ Touch stepless dimming snowflake-light, open source hardware, TYPE-C interface p
 ![10.jpg](https://github.com/wuxx/snowflake-light/blob/master/doc/10.jpg)
 ![11.jpg](https://github.com/wuxx/snowflake-light/blob/master/doc/11.jpg)
 
+# Product Link
+[Aliexpress](https://www.aliexpress.com/item/1005005028150533.html?spm=5261.ProductManageOnline.0.0.37a74edffoJOtu)
+[Tindie](https://www.tindie.com/products/johnnywu/snowflake-light/)
+
+
 # Reference
 - https://oshwhub.com/mondraker/snow_light
